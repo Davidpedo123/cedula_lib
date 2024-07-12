@@ -1,0 +1,7 @@
+consulta.c
+pyproject.toml
+setup.py
+cedula_lib.egg-info/PKG-INFO
+cedula_lib.egg-info/SOURCES.txt
+cedula_lib.egg-info/dependency_links.txt
+cedula_lib.egg-info/top_level.txt
