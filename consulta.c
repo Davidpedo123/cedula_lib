@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <curl/curl.h>
+
 static char** formatear_cedula(PyObject* args) {
     PyObject* arg;
 
