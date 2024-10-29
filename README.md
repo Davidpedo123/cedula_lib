@@ -1,0 +1,1 @@
+Ejemplo de una libreria de python hecha en C, que implementa un algoritmo para el formateo o validacion de cedulas dominicanas, tambien posee un archivo de test de comparacion, sobre la velocidad de ejecucion en Python nativo, o en la libreria de c usando la API de python
